@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
