@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Gardner (Level 2)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
