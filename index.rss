@@ -2,6 +2,7 @@
 <title>Robert Lyon's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 </channel></rss>
