@@ -2,6 +2,7 @@
 <title>Robert Lyon's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Collector (Level 10)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Master Miller (Level 9)</title><description>Add only part of a file to the stage 1692 times with git add -p.</description></item>
 <item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Miller (Level 6)</title><description>Add only part of a file to the stage 873 times with git add -p.</description></item>
-<item><title>Locksmith (Level 6)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
 </channel></rss>
