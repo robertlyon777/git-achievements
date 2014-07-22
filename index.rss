@@ -2,6 +2,7 @@
 <title>Robert Lyon's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Hunter (Level 5)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Miller (Level 10)</title><description>Add only part of a file to the stage 2490 times with git add -p.</description></item>
 <item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Hunter (Level 4)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Cleaning lady (Level 7)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Master Miller (Level 8)</title><description>Add only part of a file to the stage 1345 times with git add -p.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 </channel></rss>
