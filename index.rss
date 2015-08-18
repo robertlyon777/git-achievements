@@ -2,6 +2,7 @@
 <title>Robert Lyon's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Collector (Level 12)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Archivist (Level 7)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Hunter (Level 5)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Miller (Level 10)</title><description>Add only part of a file to the stage 2490 times with git add -p.</description></item>
-<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
