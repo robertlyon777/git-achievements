@@ -2,6 +2,7 @@
 <title>Robert Lyon's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Miller (Level 12)</title><description>Add only part of a file to the stage 7410 times with git add -p.</description></item>
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Seamstress (Level 11)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Locksmith (Level 10)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Butcher (Level 7)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 </channel></rss>
